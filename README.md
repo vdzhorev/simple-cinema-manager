@@ -1,5 +1,2 @@
 # cinemaManager 
-a simple cinema manager tool, that can:
-\nshow seats
-\nbook seats
-\ndisplay statistics
+a simple cinema manager tool, that can: show seats, book seats, display statistics
